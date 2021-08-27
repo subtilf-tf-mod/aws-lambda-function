@@ -39,5 +39,4 @@ variable "runtime"{
 
 variable "tags"{
     type = map
-    type = string
 }
